@@ -1,6 +1,6 @@
 # Kiro TDD Workflow Files
 
-A comprehensive Test-Driven Development (TDD) workflow setup for Kiro AI IDE that enforces strict TDD methodology through automated steering, hooks, and specifications.
+A simple Test-Driven Development (TDD) workflow setup for Kiro IDE that enforces strict TDD methodology through automated steering, hooks, and specifications.
 
 ## Overview
 
