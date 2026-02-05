@@ -15,7 +15,7 @@ This repository contains a complete TDD framework that:
 
 1. **Clone this repository** into your project's `.kiro` directory:
    ```bash
-   git clone https://github.com/5capeg0at/kiro-tdd-workflow-files.git .kiro
+   git clone https://github.com/mihaibalaci/kiro-tdd-workflow-files.git .kiro
    ```
 
 2. **Start development** - The hooks will automatically enforce TDD methodology
