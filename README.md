@@ -172,6 +172,3 @@ Configure Model Context Protocol servers in `.kiro/settings/mcp.json` for additi
 
 This is a personal workflow template, but feel free to fork and adapt for your own needs.
 
-## License
-
-MIT License - Use freely for your own projects.
